@@ -1,0 +1,21 @@
+{
+  "name": "Jarvis",
+  "identifier": "com.jarvis.source",
+  "iconURL": "https://raw.githubusercontent.com/Jeev1028/jarvis-source/main/icon.png",
+  "apps": [
+    {
+      "name": "Jarvis",
+      "bundleIdentifier": "com.jarvis.phone",
+      "developerName": "Jarvis",
+      "iconURL": "https://raw.githubusercontent.com/Jeev1028/jarvis-source/main/icon.png",
+      "subtitle": "Your Jarvis, on your phone",
+      "version": "1.0.26",
+      "versionDate": "2026-11-20T03:11:30Z",
+      "versionDescription": "Hey Jarvis works sooner after the intro (1.2s instead of 4s)",
+      "downloadURL": "https://raw.githubusercontent.com/Jeev1028/jarvis-source/main/Jarvis.ipa",
+      "localizedDescription": "The real Jarvis screen, with your PC as the brain. Needs Tailscale to talk to your PC.",
+      "size": 2458102
+    }
+  ],
+  "news": []
+}
