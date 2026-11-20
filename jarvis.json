@@ -9,12 +9,12 @@
       "developerName": "Jarvis",
       "iconURL": "https://raw.githubusercontent.com/Jeev1028/s-dbf246fe1ec6c7205df135fc/main/icon.png",
       "subtitle": "Your Jarvis, on your phone",
-      "version": "1.0.32",
-      "versionDate": "2026-11-20T04:18:41Z",
-      "versionDescription": "Latest build (b2fdd16)",
+      "version": "1.0.33",
+      "versionDate": "2026-11-20T04:22:03Z",
+      "versionDescription": "Latest build (c25fe96)",
       "downloadURL": "https://raw.githubusercontent.com/Jeev1028/s-dbf246fe1ec6c7205df135fc/main/Jarvis.ipa",
       "localizedDescription": "The real Jarvis screen, with your PC as the brain. Needs Tailscale to talk to your PC.",
-      "size": 2460491
+      "size": 2460629
     }
   ],
   "news": []
