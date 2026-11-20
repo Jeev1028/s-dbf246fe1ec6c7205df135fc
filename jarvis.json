@@ -1,20 +1,20 @@
 {
   "name": "Jarvis",
   "identifier": "com.jarvis.source",
-  "iconURL": "https://raw.githubusercontent.com/Jeev1028/jarvis-source/main/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/Jeev1028/s-dbf246fe1ec6c7205df135fc/main/icon.png",
   "apps": [
     {
       "name": "Jarvis",
       "bundleIdentifier": "com.jarvis.phone",
       "developerName": "Jarvis",
-      "iconURL": "https://raw.githubusercontent.com/Jeev1028/jarvis-source/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/Jeev1028/s-dbf246fe1ec6c7205df135fc/main/icon.png",
       "subtitle": "Your Jarvis, on your phone",
-      "version": "1.0.28",
-      "versionDate": "2026-11-20T03:16:42Z",
+      "version": "1.0.29",
+      "versionDate": "2026-11-20T03:23:08Z",
       "versionDescription": "Latest build (b667ac9)",
-      "downloadURL": "https://raw.githubusercontent.com/Jeev1028/jarvis-source/main/Jarvis.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/Jeev1028/s-dbf246fe1ec6c7205df135fc/main/Jarvis.ipa",
       "localizedDescription": "The real Jarvis screen, with your PC as the brain. Needs Tailscale to talk to your PC.",
-      "size": 2458103
+      "size": 2458102
     }
   ],
   "news": []
